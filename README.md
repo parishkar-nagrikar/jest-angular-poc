@@ -39,10 +39,13 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 19. Jest is well-documented, requires little configuration and can be extended to match your requirements.
 20. Jest makes testing delightful.
 
-- Code Coverage	
+- Code Coverage	 : npm run test:coverage
 - Easy Mocking 
-- Great API 
-- Exceptions	
+- Great API      : npm run test 
+- Exceptions	 : npm run test:watch
+
+
+
 
 **Steps to configure JEST in Angular Project : **
 

@@ -46,14 +46,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 **Steps to configure JEST in Angular Project : **
 
-*Step 1*: Uninstall all karma jasmine packages 
-*Step 2*: Remove test object from Angular.
-*Step 3:* Delete karma.conf .js file and test.ts file
-*Step 4*: npm i jest @types/jest jest -preset-angular
-*Step 5*: Create setup.jest.ts file.
-*Step 6*: Update tsconfig.spec.json file
-*Step 7*: Add jest configuration in package.json 
-*Step 8*: Add scripts in package.json to run JEST
+1. *Step 1*: Uninstall all karma jasmine packages 
+2. *Step 2*: Remove test object from Angular.
+3. *Step 3:* Delete karma.conf .js file and test.ts file
+4. *Step 4*: npm i jest @types/jest jest -preset-angular
+5. *Step 5*: Create setup.jest.ts file.
+6. *Step 6*: Update tsconfig.spec.json file
+7. *Step 7*: Add jest configuration in package.json 
+8. *Step 8*: Add scripts in package.json to run JEST
 
 ## Running end-to-end tests
 

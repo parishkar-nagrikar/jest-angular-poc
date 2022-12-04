@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class MatchersComponent {
 
+  constructor() {
+  }
+  ngOnInit(): void {
+  }
+  
+  compileExceptionCode() {
+    throw new Error('you are using Old Angular');
+  }
 }
